@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Niraj Shevade</h1>
 <h3 align="center">B.Tech IT '27 | IT Engineering Student | Data Scientist enthusiat | Full-Stack Developer | DSA & Problem Solving AI/ML Enthusiast | Open Source Contributor from India Building solutions with code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajshevade&label=Profile%20views&color=0e75b6&style=flat" alt="nirajshevade" /> </p>
-
 - 🔭 I’m currently working on [Resume Parsing and Intelligent Ranking System](https://github.com/nirajshevade/Resume-Parser)
 
 - 🌱 I’m currently learning **Data Analysis, MLOps, Cloud System Design**
@@ -20,8 +18,6 @@
 - 📫 How to reach me **nirajshevade5@gmail.com**
 
 - 📄 Know about my experiences [https://tinyurl.com/32f592v3](https://tinyurl.com/32f592v3)
-
-- ⚡ Fun fact **Acting has always been one of my core passions.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
