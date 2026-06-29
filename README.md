@@ -1,23 +1,17 @@
 <h1 align="center">Hi 👋, I'm Niraj Shevade</h1>
 <h3 align="center">B.Tech IT '27 | IT Engineering Student | Data Scientist enthusiat | Full-Stack Developer | DSA & Problem Solving AI/ML Enthusiast | Open Source Contributor from India Building solutions with code</h3>
 
-- 🔭 I’m currently working on [Resume Parsing and Intelligent Ranking System](https://github.com/nirajshevade/Resume-Parser)
+- 🔭 I’m currently working on [Resume Parsing and Intelligent Ranking System](https://github.com/nirajshevade/Resume-Parser) and [Scalable Container Health Monitoring System](https://github.com/nirajshevade/Scalable-container-health-monitoring-system)
 
-- 🌱 I’m currently learning **Data Analysis, MLOps, Cloud System Design**
+- 🌱 I’m currently learning **DevOps, Data Analysis, MLOps, Cloud System Design**
 
-- 👯 I’m looking to collaborate on [Monki: Movie Recommendation System](https://github.com/nirajshevade/Monki-Movie-Recomendor)
+- 👨‍💻 All of my work is available at [https://nirajshevade.dev/](https://nirajshevade.dev/)
 
-- 🤝 I’m looking for help with [Moodify: Sentiment Predictor](https://github.com/nirajshevade/moodify-glow-chat)
-
-- 👨‍💻 All of my projects are available at [https://nirajshevade.netlify.app/](https://nirajshevade.netlify.app/)
-
-- 📝 I regularly write articles on [https://nirajshevade.github.io/My_Blog/](https://nirajshevade.github.io/My_Blog/)
-
-- 💬 Ask me about **Python, Machine Learning, Data Science, NLP, AWS, DevOps, Node.js**
+- 💬 Ask me about **Python, Machine Learning, Data Science, NLP, AWS, DevOps**
 
 - 📫 How to reach me **nirajshevade5@gmail.com**
 
-- 📄 Know about my experiences [https://tinyurl.com/32f592v3](https://tinyurl.com/32f592v3)
+- 📄 Know about my experiences [https://tinyurl.com/mymainresume](https://tinyurl.com/mymainresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
